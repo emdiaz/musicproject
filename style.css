@@ -1,0 +1,57 @@
+body{
+    background:#191970;
+    font-family:"Brush Script MT", cursive;
+    color:white;
+}
+h1{
+    font-family:"Lucida Sans Unicode";
+    color:white;
+    }
+
+.Moods{
+    font-family:Arial;
+    color:black;
+    font-weight:900;
+    float:center;
+    }
+#Gloomy{
+    background-image: url( "https://usercontent2.hubstatic.com/6443187_f260.jpg");
+    background-size:80px ;
+    filter: blur(px);
+    height:200px;
+    width:200px;
+   }
+  #Lit{
+      background-image: url( "http://weknowyourdreams.com/images/party/party-05.jpg");
+      background-size:140px;
+      height:200px;
+      width:200px;
+      filter:blur(1px);
+      
+      }
+    #Chill{
+      background-image: url( "http://az616578.vo.msecnd.net/files/2016/04/22/635969031164861061-626714392_enhanced-buzz-21987-1442522328-7.jpg");
+      background-size:140px;
+      height:200px;
+      width:200px;
+      filter:blur(1px);
+    }
+    .Genres{
+     font-family:Arial;
+    color:black;
+    font-weight:900;
+    }
+#Pop{
+     background-image: url("http://d2jv9003bew7ag.cloudfront.net/uploads/What-Is-Pop-Art.jpg ");
+      background-size:100px;
+      height:200px;
+      width:200px;
+      filter:blur(px);
+      }
+#Latino{
+     background-image: url( "http://www.billboard.com/files/styles/article_main_image/public/media/prince-royce-Culpa-al-Corazon-2015-billboard-650.jpg");
+      background-size:140px;
+      height:200px;
+      width:200px;
+      filter:blur(px);
+      }
